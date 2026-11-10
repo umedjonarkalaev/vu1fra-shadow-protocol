@@ -1,0 +1,6 @@
+{
+  "name": "VU1FRA // SHADOW PROTOCOL",
+  "description": "Кинематографичный 2D стелс-платформер о кибер-синоби VU1FRA в туманном мегаполисе Нео-Эдо с обучающими головоломками по информационной безопасности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
